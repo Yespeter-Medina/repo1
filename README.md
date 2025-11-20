@@ -7,4 +7,4 @@ A collection of vulnerable code snippets taken form around the internet. Snippet
 Actualización: prueba de SonarCloud.
 Prueba final SonarCloud repo1.
 Corrección final SonarCloud repo1.
-
+Prueba SonarCloud con proyecto nuevo.
